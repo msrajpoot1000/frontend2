@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/Food-ordering-frontend/static/css/main.25e72555.css",
+    "main.js": "/Food-ordering-frontend/static/js/main.41c43e75.js",
+    "static/media/img4.jpeg": "/Food-ordering-frontend/static/media/img4.6201d8a4688ad6c00b63.jpeg",
+    "static/media/img8.jpeg": "/Food-ordering-frontend/static/media/img8.30291512da72e0445b6d.jpeg",
+    "static/media/img1.jpeg": "/Food-ordering-frontend/static/media/img1.fc5492a1194b56246f0d.jpeg",
+    "static/media/Contact_back.jpeg": "/Food-ordering-frontend/static/media/Contact_back.165ce1554c3a458f18d3.jpeg",
+    "static/media/img3.jpeg": "/Food-ordering-frontend/static/media/img3.165ce1554c3a458f18d3.jpeg",
+    "static/media/img7.jpeg": "/Food-ordering-frontend/static/media/img7.563400f61d9822edce58.jpeg",
+    "static/media/img5.jpeg": "/Food-ordering-frontend/static/media/img5.7de6a318892366e9de35.jpeg",
+    "static/media/img2.jpeg": "/Food-ordering-frontend/static/media/img2.4fbe1cb3ba5330b92b15.jpeg",
+    "static/media/slide-02.jpg": "/Food-ordering-frontend/static/media/slide-02.e1c1c806798b5f5f305c.jpg",
+    "static/media/slide-03.jpg": "/Food-ordering-frontend/static/media/slide-03.b9ddaa1b5434816482db.jpg",
+    "static/media/img6.jpeg": "/Food-ordering-frontend/static/media/img6.86625486eb25da889477.jpeg",
+    "static/media/reservation-bg.jpg": "/Food-ordering-frontend/static/media/reservation-bg.5664da14fe73a430743a.jpg",
+    "static/media/about-video-bg.jpg": "/Food-ordering-frontend/static/media/about-video-bg.9a8fb7851786a7a13ee3.jpg",
+    "static/media/slide-01.jpg": "/Food-ordering-frontend/static/media/slide-01.d74d442a597e54cc68df.jpg",
+    "static/media/top-left-bg.jpg": "/Food-ordering-frontend/static/media/top-left-bg.000bdee07a883ee095b7.jpg",
+    "static/media/chefs-02.jpg": "/Food-ordering-frontend/static/media/chefs-02.6a11eea9046f1067e4ee.jpg",
+    "static/media/tab-item-06.png": "/Food-ordering-frontend/static/media/tab-item-06.6c457ed3336326ee3119.png",
+    "static/media/about-thumb-03.jpg": "/Food-ordering-frontend/static/media/about-thumb-03.d51a61e667a01609e285.jpg",
+    "static/media/tab-item-03.png": "/Food-ordering-frontend/static/media/tab-item-03.641d75042b86656018a7.png",
+    "static/media/tab-item-01.png": "/Food-ordering-frontend/static/media/tab-item-01.6633dbd38392f66b71db.png",
+    "static/media/about-thumb-02.jpg": "/Food-ordering-frontend/static/media/about-thumb-02.1545eb28cfd5b17c717b.jpg",
+    "static/media/tab-item-05.png": "/Food-ordering-frontend/static/media/tab-item-05.65a8ab4bc2f75063bda6.png",
+    "static/media/chefs-01.jpg": "/Food-ordering-frontend/static/media/chefs-01.9ad8e196c296c8e8cc8e.jpg",
+    "static/media/chefs-03.jpg": "/Food-ordering-frontend/static/media/chefs-03.1afcb93af30b6d7eab60.jpg",
+    "static/media/tab-item-04.png": "/Food-ordering-frontend/static/media/tab-item-04.4efb1b351e25a8d7034a.png",
+    "static/media/about-thumb-01.jpg": "/Food-ordering-frontend/static/media/about-thumb-01.7360366496d103d67685.jpg",
+    "static/media/team3.jpg": "/Food-ordering-frontend/static/media/team3.722c83de4121d9fcfede.jpg",
+    "static/media/tab-item-02.png": "/Food-ordering-frontend/static/media/tab-item-02.3f17d1deb744eee93c64.png",
+    "static/media/team1.jpg": "/Food-ordering-frontend/static/media/team1.a1d2f3730ad3b807a1cd.jpg",
+    "index.html": "/Food-ordering-frontend/index.html",
+    "main.25e72555.css.map": "/Food-ordering-frontend/static/css/main.25e72555.css.map",
+    "main.41c43e75.js.map": "/Food-ordering-frontend/static/js/main.41c43e75.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.25e72555.css",
+    "static/js/main.41c43e75.js"
+  ]
+}
